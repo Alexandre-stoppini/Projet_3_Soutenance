@@ -4,4 +4,4 @@ Repository  pour la soutenance du projet numéro 3
 2. Set the Project compiler output path to "out" file
 3. Mark directory as "Source root" for java package
 4. Mark directory as "Ressources root" for ressources
-5. Le programme peut être lancé tel quel.
+5. You can launch the program
