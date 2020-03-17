@@ -8,16 +8,18 @@ Trois modes de jeu existent.
 - Duel : l'utilisateur et l'ordinateur jouent tour à tour. Le premier à toruver la combinaison secrète de l'autre gagne.
 
 ### Trois paramètres sont présents:
+
 - devMode : Permet d'afficher le code proposé par l'ordinateur afin de faciliter le développement
 - tryNm : Permet de définir le nombre d'essais à la résolution du code
 - sizeCombi : Permet de définir la taille du code à résoudre
 
+Afin de configurer ces paramètres, il est nécessaire d'aller dans config.properties et modifier les 3 éléments
  
 ## Pré-requis
 1. IntelliJ, Eclipse, tout autre environnement de développement intégré
 2. Utiliser Java 8 au minimum
 
-## Installation & Configuration
+## Installation
  
 1. Open project structure, set SDK with the 13rd version of Java.
 2. Set the Project compiler output path to "out" file
@@ -27,3 +29,4 @@ Trois modes de jeu existent.
 
 ## Fabriqué avec
 __IntelliJ__
+ 
